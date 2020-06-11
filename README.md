@@ -2,7 +2,7 @@
 Machine learning driven issue classification bot.
 [Add to your repository now!](https://github.com/apps/ticket-tagger/installations/new)
 
-![](https://thumbs.gfycat.com/GreedyBrownHochstettersfrog-size_restricted.gif)
+![](https://thumbs.gfycat.com/GreedyBrownHochstettersfrog-size_restricted.gif) 
 
 ### License
 
